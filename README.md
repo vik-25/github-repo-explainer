@@ -34,7 +34,7 @@ contents of only selected key files.
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/vik-25/github-repo-explainer.git
 cd github-repo-explainer
 ```
 
