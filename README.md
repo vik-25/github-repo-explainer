@@ -188,4 +188,4 @@ Markdown Report
 
 ## License
 
-Add your preferred license here.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
